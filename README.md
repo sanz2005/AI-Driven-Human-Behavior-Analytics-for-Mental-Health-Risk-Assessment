@@ -47,7 +47,6 @@ Visualization & UI: Streamlit
 
 Explainability: Feature importance (Explainable AI)
 
-📂 Project Structure
 
 ## 📂 Project Structure
 
