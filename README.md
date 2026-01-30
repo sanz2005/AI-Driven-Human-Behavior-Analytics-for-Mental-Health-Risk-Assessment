@@ -19,22 +19,34 @@ The goal is to support preventive, data-driven mental health monitoring and life
 🎯 Key Features 
 
 🔮 Mood Prediction using Random Forest regression
+
 🧠 Mental Health Scoring (Stress, Wellness, Burnout, Digital Addiction)
+
 🧬 Behavioral Clustering using K-Means
+
 📊 Trend Analysis from historical user data
+
 🔍 Explainable AI showing feature impact on mood
+
 🤖 AI Health Coach with personalized recommendations
+
 📄 PDF Health Report Generation
+
 🖥️ Interactive Streamlit Dashboard
 
 🛠️ Tech Stack
 Programming Language: Python
+
 Data Analysis: Pandas, NumPy
+
 Machine Learning: Scikit-learn
+
 Visualization & UI: Streamlit
+
 Explainability: Feature importance (Explainable AI)
 
 📂 Project Structure
+
 Human-Behavior-Analytics-Mental-Health/
 │
 ├── app.py                     # Main Streamlit application
@@ -52,7 +64,7 @@ Human-Behavior-Analytics-Mental-Health/
 │   ├── eda.py                 # Exploratory data analysis
 │   ├── clustering.py          # Behavioral clustering experiments
 │   ├── cluster_optimization.py# Cluster tuning and evaluation
-│   ├── time_series_prediction.py # Trend and time-series analysis
+│   ├── time_series_prediction.py # Time-series and trend analysis
 │   ├── behavior_fingerprint.py# Behavioral pattern extraction
 │   └── feature_engineering.py # Feature engineering experiments
 │
@@ -98,6 +110,7 @@ Users can download a detailed PDF health report.
 12. Version Control: GitHub
 
 ▶️ How to Run the Project
+
 1️) Install Dependencies
    pip install -r requirements.txt
 
