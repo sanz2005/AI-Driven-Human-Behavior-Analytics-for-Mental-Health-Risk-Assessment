@@ -85,42 +85,51 @@ Human-Behavior-Analytics-Mental-Health/
 📊 How the System Works
 
 1. User Input
+   
 Users enter daily lifestyle data (sleep, screen time, work hours, steps).
 
 2. Feature Engineering
+   
 Behavioral indicators such as sleep efficiency, productivity score, and digital overuse are computed.
 
 3. Machine Learning Models
 
-4. Regression Model: Predicts mood score
+ Regression Model:- Predicts mood score
 
-5. Clustering Model: Segments users into lifestyle behavior groups
+ Clustering Model:- Segments users into lifestyle behavior groups
 
-6. Mental Health Scoring
+4. Mental Health Scoring
+   
 Scores are normalized to a 0–100 scale for easy interpretation.
 
-7. Explainable AI
+5. Explainable AI
+   
 Shows how each lifestyle factor contributes to the predicted mood.
 
-8. Trend Tracking
+6. Trend Tracking
+   
 Historical data is stored and visualized to show long-term health trends.
 
-9. AI Health Coach
+7. AI Health Coach
+   
 Generates personalized lifestyle recommendations based on user patterns.
 
-10.  Report Generation
+8.  Report Generation
+   
 Users can download a detailed PDF health report.
 
-11. Reporting: PDF generation
+9. Reporting: PDF generation
 
-12. Version Control: GitHub
+10. Version Control: GitHub
 
 ▶️ How to Run the Project
 
 1) Install Dependencies
+   
    pip install -r requirements.txt
 
 2) Run the Streamlit App
+   
    streamlit run app.py
 
 
