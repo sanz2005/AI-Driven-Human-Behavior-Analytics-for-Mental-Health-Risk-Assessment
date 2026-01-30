@@ -16,7 +16,7 @@ This project analyzes daily behavioral data such as sleep duration, screen time,
 
 The goal is to support preventive, data-driven mental health monitoring and lifestyle optimization.
 
-🎯 Key Features 
+🎯 Key Features :- 
 
 🔮 Mood Prediction using Random Forest regression
 
@@ -34,7 +34,9 @@ The goal is to support preventive, data-driven mental health monitoring and life
 
 🖥️ Interactive Streamlit Dashboard
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:-
+
 Programming Language: Python
 
 Data Analysis: Pandas, NumPy
@@ -47,6 +49,9 @@ Explainability: Feature importance (Explainable AI)
 
 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 Human-Behavior-Analytics-Mental-Health/
 │
 ├── app.py                     # Main Streamlit application
@@ -56,7 +61,7 @@ Human-Behavior-Analytics-Mental-Health/
 ├── src/                       # Core logic used by the app
 │   ├── ai_coach.py            # AI health coach logic
 │   ├── pdf_report.py          # PDF report generation
-│   ├── prediction.py          # Mood prediction model
+│   ├── prediction.py         # Mood prediction model
 │   ├── mental_health_scores.py# Mental health score calculations
 │   └── explainable_ai.py      # Explainable AI logic
 │
@@ -75,6 +80,8 @@ Human-Behavior-Analytics-Mental-Health/
     ├── dashboard.png          # Dashboard screenshots
     ├── scores.png             # Score visualization screenshots
     └── coach.png              # AI coach output screenshots
+```
+
     
 📊 How the System Works
 
@@ -111,10 +118,12 @@ Users can download a detailed PDF health report.
 
 ▶️ How to Run the Project
 
-1️) Install Dependencies
+1) Install Dependencies
    pip install -r requirements.txt
 
 2) Run the Streamlit App
    streamlit run app.py
+
+
 
    
