@@ -109,7 +109,7 @@ Historical data is stored and visualized to show long-term health trends.
 9. AI Health Coach
 Generates personalized lifestyle recommendations based on user patterns.
 
-10. Report Generation
+10.  Report Generation
 Users can download a detailed PDF health report.
 
 11. Reporting: PDF generation
